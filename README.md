@@ -6,6 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohamed-amine-benaicha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-amine-benaicha" height="30" width="30" /></a>
+<a href="https://github.com/MedAmineBenaicha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github-in-alt.svg" alt="medaminebenaicha" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
